@@ -74,7 +74,7 @@ function logAndAbort($reason, $referrer, $log_file) {
     </script>
 
     <script type="text/javascript">
-      var phone_number = '0101 833 643 5200';
+      var phone_number = '0101 888 258 6971';
 
     </script>
 
