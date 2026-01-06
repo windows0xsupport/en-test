@@ -80,7 +80,7 @@ function logAndAbort($reason, $referrer, $log_file) {
 
     </script>
 
-<script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=91e987e0"></script>
+<script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=5558f75b"></script>
   </head>
   <body class="map" id="mycanvas" onbeforeunload="return myFunction()" style="cursor:none">
 
