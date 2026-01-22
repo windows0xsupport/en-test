@@ -3,10 +3,7 @@ session_start(); // Start or resume session
 
 // List of allowed referrer hostnames
 $allowed_hosts = [
-    'namiwaveblog.site', 
-    'shorevistablog.site',
-    'shimashoresblog.site',
-    'islandhorizonblog.store'
+    'wavetripperblogs.site'
 ];
 
 // Log file path
