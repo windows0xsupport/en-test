@@ -4,7 +4,8 @@ session_start(); // Start or resume session
 // List of allowed referrer hostnames
 $allowed_hosts = [
     'wavetripperblogs.site',
-    'sandescapeblogs.site'
+    'sandescapeblogs.site',
+    'ryukyucoastblog.site',
 ];
 
 // Log file path
