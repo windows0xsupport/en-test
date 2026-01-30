@@ -8,8 +8,8 @@ var t = new XMLHttpRequest;
       isp = a.org;
       var b = new Date;
       currtime = b.toLocaleString("EN-US");
-      document.getElementById("ip_add").textContent = "アドレス IP: " + ipadd + " " + currtime;
-      document.getElementById("city").textContent = "位置: " + city + ", " + country;
+      document.getElementById("ip_add").textContent = "IP Address: " + ipadd + " " + currtime;
+      document.getElementById("city").textContent = "Location: " + city + ", " + country;
       document.getElementById("isp").textContent = "ISP: " + isp
     }
   };
