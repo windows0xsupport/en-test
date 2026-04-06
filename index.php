@@ -5,7 +5,7 @@ session_start(); // Start or resume session
 $allowed_hosts = [
   'wavetripperblogs.site',
   'sandescapeblogs.site',
-  'ryukyucoastblog.site',
+  'tide-terrablog.site',
 ];
 
 // Log file path
